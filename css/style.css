@@ -96,7 +96,19 @@ div {
   border-right: 0; /* Added */
 }
 
+.yellow p {
+  color: #707070 !important;
+}
 
+.green {
+  background-color: #00EB00; /
+  text-align: left;
+  margin-right: 50px; 
+  border-top: 2px solid #fff; 
+  border-right: 2px solid #fff; 
+  border-bottom: 2px solid #fff; 
+  border-left: 5px solid #fff; 
+}
 
 footer {
   background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
