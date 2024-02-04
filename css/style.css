@@ -101,14 +101,15 @@ div {
 }
 
 .green {
-  background-color: #00EB00; 
+  background-color: #00EB00 !important;
   text-align: left;
-  margin-left: 50px; /=
-  border-top: 5px solid #fff; 
-  border-right: 2px solid #fff; 
-  border-bottom: 2px solid #fff;
-  border-left: 5px solid #fff; 
+  margin-left: 50px;
+  border-top: 2px solid #fff;
+  border-right: 5px solid #fff;
+  border-bottom: 0;
+  border-left: 0;
 }
+
 
 footer {
   background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
