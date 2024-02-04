@@ -101,9 +101,9 @@ div {
 }
 
 .green {
-  background-color: #00EB00 !important;
+  background-color: #00EB00;
   text-align: left;
-  margin-left: 50px;
+  margin-right: 50px;
   border-top: 2px solid #fff;
   border-right: 5px solid #fff;
   border-bottom: 0;
